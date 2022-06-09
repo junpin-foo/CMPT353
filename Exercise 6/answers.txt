@@ -1,0 +1,13 @@
+1. No I do not think that we are hacking p-value, this is because we are removing non instructors that rarely use the search function. 
+   If we were to include them, we would effectively under represent the effect of the UI change.
+   Fairly comfortable, as our p value is 0.045 
+
+
+2. 21 pair t test, 1 - 0.95^21 = 0.659 is the probability be of having any false conclusions.
+
+3. ranking :    1. partition_sort
+                2. qs1
+                3. qs2 / qs3 : could not be distinguished
+                4. qs5
+                5. qs4
+                6. merge1

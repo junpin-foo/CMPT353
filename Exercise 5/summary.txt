@@ -1,0 +1,88 @@
+data-1.csv
+x mean is:  8.717696186413818
+y mean is:  12.522874034702589
+
+x std is:  12.155517231222024
+y std is:  6.63996400756785
+
+range of x is:  57.87293327786024
+range of y is:  29.94924044421798
+
+r between x and y is :  0.9503256954375489
+
+The average of x is 8.71 and average of y is 12.52. The standard deviation of x is 12.16 while y is 6.64. The range of x is 57.87 while y has a range of 29.95. 
+X and Y has a r value of 0.9503 which is a strong and positive correlation.
+
+data-2.csv
+x mean is:  -0.710787126715958
+y mean is:  -0.7489869764497992
+
+x std is:  11.481583587790734
+y std is:  6.257917998755848
+
+range of x is:  60.9181134493271
+range of y is:  32.769118752736546
+
+r between x and y is :  0.9551531665750373
+
+The average of x is -0.71 and average of y is -0.75. The standard deviation of x is 11.48 while y is 6.26. The range of x is 60.92 while y has a range of 32.77. 
+X and Y has a r value of 0.955 which is a strong and positive correlation.
+
+data-3.csv
+x mean is:  0.9689074904200946
+y mean is:  8.50853523664133
+
+x std is:  2.23555786105797
+y std is:  1.1493008110024527
+
+range of x is:  6.967949247227911
+range of y is:  3.9101365324125537
+
+r between x and y is :  0.9819372646760661
+The average of x is 0.97 and average of y is 8.51. The standard deviation of x is 2.24 while y is 1.15. The range of x is 6.97 while y has a range of 3.91.
+X and Y has a r value of 0.981 which is a strong and positive correlation.
+
+data-4.csv
+x mean is:  49.90508614830509
+y mean is:  18.55383652542372
+
+x std is:  28.508610519881927
+y std is:  16.545896442941686
+
+range of x is:  87.3767
+range of y is:  44.56504
+
+r between x and y is :  -0.08119306735490815
+
+The average of x is 49.9 and average of y is 18.6. The standard deviation of x is 28.5 while y is 16.5. The range of x is 87.4 while y has a range of 44.6.
+X and Y has a r value of -0.08 which is a weak and negative correlation.
+
+data-5.csv
+x mean is:  49.909993578430964
+y mean is:  18.55552493772909
+
+x std is:  28.500000943801364
+y std is:  16.540796301840782
+
+range of x is:  86.71497088602307
+range of y is:  49.87869952875196
+
+r between x and y is :  -0.08823598983058888
+
+The average of x is 49.9 and average of y is 18.5. The standard deviation of x is 28.5 while y is 16.5. The range of x is 86.7 while y has a range of 49.9.
+X and Y has a r value of -0.088 which is a weak and negative correlation.
+
+data-6.csv
+x mean is:  7.2161551796099195
+y mean is:  7.6022150282372944
+
+x std is:  11.921599067458313
+y std is:  11.764382455006647
+
+range of x is:  59.735959663269966
+range of y is:  59.03623102785603
+
+r between x and y is :  0.9350685662094907
+
+The average of x is 7.22 and average of y is 7.60. The standard deviation of x is 11.9 while y is 11.76. The range of x is 59.7 while y has a range of 59.03.
+X and Y has a r value of 0.935 which is a strong and positive correlation.

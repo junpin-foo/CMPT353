@@ -1,0 +1,3 @@
+1. Yes, residual are close-enough to being normal to look at the OLS p-value by using CLT. Since p is 3.793 * 10^-121, a very small p value we reject H0 of the slope being 0. And both the regrssion line from the previous scatter plot and histogram shows that ratings is increasing.
+
+2. Yes

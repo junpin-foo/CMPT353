@@ -1,0 +1,4 @@
+1. K Neighbors Classifier, because we have many points to compare to and we can easily adjust with the simplicity of K neighbout classifier as we only have to adjust the number of neighbour to create a fairly reasonable prediction. Furthermore, K Neighbors Classifier works best with LAB colours, this might be due to HSV having a hue parameter which leads to similar but different colours be put in the same category.
+    Some colour space are better for different model because they carry other variable such as Hue in HSV that may be useful in different models. Whereas in RGB you can better seperate the colour components from intensity.
+
+2. Yes, because the predeictions had similar or close to similar conditions than the actual location. Perhaps pressure and number of times it rains in a period of time, to help more accurately predict. The altitude can be predicted with pressure and numbers of times it rained to find a more general area.

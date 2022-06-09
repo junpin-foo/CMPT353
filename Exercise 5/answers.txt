@@ -1,0 +1,8 @@
+1. Central limit theorem got us closest to satisfying the assumptions of a T-test.\
+
+2. For original t-test, if we reject the null hypothesis, there is not an equal number of comments on weekday and weekends on r/canada.
+    For transformed data T-test, the transfored (square-root) number of comments for weekday and weekend is not the same.
+
+3. Central limit theorem does a better job of getting an answer, because as we have a large sample size, we can assume that the results are normal. This will get us a better t-test result to prove / disprove the null hypothesis.
+
+4. Weekends
