@@ -1,0 +1,3 @@
+1. I used .cache() when I completed the dataframe with the relative score. This is because we needed to compare it to the max relative score dataframe later on. If we did not cache, spark would have to recalculate the relative score when we compare it to the max relative score df.
+
+2. Without braodcast the program took 1min 44sec to run in the cluster, and with broadcast took 1min 1sec. Approxinately an improvement of 40+ seconds.

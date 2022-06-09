@@ -1,0 +1,8 @@
+1.  (1) takes real    0m22.315s user    0m58.821s sys     0m2.514s [reddit-0]
+    (2) takes real    0m36.104s user    1m12.377s sys     0m3.220s [no schema, no cache]
+    (3) takes real    0m31.696s user    1m4.157s sys     0m2.705s [with schema no cache]
+    (4) takes real    0m25.910s user    0m59.680s sys     0m2.904s [with schema and cache]
+
+2. Caclculating the averages takes more time.
+
+3. Cache before we group by filename, because we have to compare the views before max and after.
