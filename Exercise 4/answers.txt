@@ -1,0 +1,4 @@
+1. Yes, there seems be a larger cluster of population density around the 10 - 30 celsius region, this shows that a higher population density or most people prefer to live in cities with a temperature of 10 - 30 celsius. Allowing us to predict population density.
+
+2. Since json files is commonly used for APIs and data interchange, passing around a large json file might be slower compared to decompressing it everytime we run the program. 
+Locally, a large json file might take longer to read compared to an efficient decompressing algorithm, therefore decompressing the file might still be more efficient that a large json file.

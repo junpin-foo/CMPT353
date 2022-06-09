@@ -1,0 +1,6 @@
+1. I belive I got a better result with Kalman smoothing, we can observe that Kalman smoothing provides more details as it takes into account
+    points that are further more the general cluster. Especially in certain peaks across the plot, Kalman is able to show off the data points that are furthre 
+    away whereas loess ignores them as it gives weights to different data points.
+
+2. I think these data can also help weed out inaccurate data points. For example, if a person was travelling at a close to linear speed, a sudden spike in speed would 
+    indicate an inaccurate capture of data. This will help us find a more realistic lattitude / longitude. thus providing a better prediction.

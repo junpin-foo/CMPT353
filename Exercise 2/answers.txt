@@ -1,0 +1,3 @@
+1. The prediction of ratings based on the linear regression line. This produces a pandas series type as we are doing arithmetic on each item in the series. Therefore producing a float type after we multiple the slope and adding the intercept. 
+
+2. We plotted created_at date against the (timestamp and score with the linear regression method to give a prediction) to give a best fit line. They have the same index (page name) when we combine both views into the same data frame.
